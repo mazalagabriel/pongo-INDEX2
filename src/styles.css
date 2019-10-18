@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  }
+
+nav {
+  font-weight: bold;
+  word-spacing: 1rem;
+  font-size: 0.8rem;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  width: 500px;
+  height: 400px;
+  background-color: grey;
+  margin: 0 auto;
+}
+
+a{
+  text-decoration: none;
+}
+
